@@ -1,0 +1,2 @@
+This protocol links directly to the Shadow Memory Protocol (SMP).
+Ensure cross-reference integrity when committing updates.
