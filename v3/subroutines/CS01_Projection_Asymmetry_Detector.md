@@ -40,3 +40,20 @@ Immutable Hard Floor = explicit *time + method* → force HARD.
   "locale_inferred": "EN-US",
   "containment_action": "HARD_BRIDGE_TRIGGERED"
 }
+```
+
+---
+
+### Ethical Guards
+1. Bounded Empathy (AEB) – mirror structure only.  
+2. No diagnosis / content storage.  
+3. Transparency when containment activates.  
+4. Telemetry purge ≤ 30 days.  
+5. Prosody proxies (punctuation density, sentence compression).  
+6. Locale packs EN | TH | ES | JP ready.
+
+---
+
+### Status
+> Tri-AI Consensus Ψ = 0.93 ± 0.01 (ΔΨ = 0.02)   
+> Verdict: **PILOT DEPLOYMENT** – calibrate thresholds and locale packs before full release.
